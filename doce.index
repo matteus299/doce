@@ -162,100 +162,100 @@ const CFG={checkout:"https://pay.cakto.com.br/3bcfcj7_1313329",images:{hero:IMG.
 </script>
 
 <header id="hd"><div class="w nav">
-<a class="logo" href="#top">Sobremesas<i> na Travessa</i></a>
-<nav><a class="l" href="#metodo">Conteúdo</a><a class="l" href="#simule">Simulador</a><a class="l" href="#faq">Dúvidas</a>
-<button class="tg" id="th" aria-label="Alternar tema">◐</button><a class="btn sm" data-buy href="#">Quero entrar</a></nav>
+  <a class="logo" href="#top">Sobremesas<i> na Travessa</i></a>
+  <nav><a class="l" href="#metodo">Conteúdo</a><a class="l" href="#simule">Simulador</a><a class="l" href="#faq">Dúvidas</a>
+  <button class="tg" id="th" aria-label="Alternar tema">◐</button><a class="btn sm" data-buy href="#">Quero entrar</a></nav>
 </div></header>
 
 <main id="top">
 <section class="hero"><div class="w hg">
-<div>
-<div class="eyebrow">Natal lucrativo · 9 receitas · passo a passo</div>
-<h1>Sobremesas práticas para produzir e <em>vender muito</em> neste Natal</h1>
-<p class="lead">Transforme o Natal em oportunidade de aumentar suas encomendas com sobremesas práticas, bonitas e irresistíveis.</p>
-<div class="cta"><a class="btn" data-buy href="#">Quero começar agora →</a><a class="btn o" href="#metodo">Ver o conteúdo</a></div>
-<div class="trust"><span>🔒 <b>Compra segura</b></span><span>↩ <b>7 dias</b> de garantia</span><span>⚡ <b>Acesso</b> imediato</span></div>
-</div>
-<div class="art" data-art="hero"><div class="chip a">🍰 9 receitas passo a passo</div><div class="chip b">📲 Aulas no celular</div></div>
+  <div>
+    <div class="eyebrow">Natal lucrativo · 9 receitas · passo a passo</div>
+    <h1>Sobremesas práticas para produzir e <em>vender muito</em> neste Natal</h1>
+    <p class="lead">Transforme o Natal em oportunidade de aumentar suas encomendas com sobremesas práticas, bonitas e irresistíveis.</p>
+    <div class="cta"><a class="btn" data-buy href="#">Quero começar agora →</a><a class="btn o" href="#metodo">Ver o conteúdo</a></div>
+    <div class="trust"><span>🔒 <b>Compra segura</b></span><span>↩ <b>7 dias</b> de garantia</span><span>⚡ <b>Acesso</b> imediato</span></div>
+  </div>
+  <div class="art" data-art="hero"><div class="chip a">🍰 9 receitas passo a passo</div><div class="chip b">📲 Aulas no celular</div></div>
 </div></section>
 
 <div class="mq"><div id="mq"></div></div>
 
 <section style="padding-top:0"><div class="w"><div class="stats rv">
-<div class="st"><b data-n="9">0</b><span>sobremesas na travessa</span></div>
-<div class="st"><b data-n="10">0</b><span>recheios e cremes base</span></div>
-<div class="st"><b data-n="1">0</b><span>ano de acesso</span></div>
-<div class="st"><b data-n="7">0</b><span>dias de garantia</span></div>
+  <div class="st"><b data-n="9">0</b><span>sobremesas na travessa</span></div>
+  <div class="st"><b data-n="10">0</b><span>recheios e cremes base</span></div>
+  <div class="st"><b data-n="1">0</b><span>ano de acesso</span></div>
+  <div class="st"><b data-n="7">0</b><span>dias de garantia</span></div>
 </div></div></section>
 
 <section><div class="w">
-<div class="c rv"><div class="eyebrow">Natal chegando</div><h2>Você já sabe o que vai <em>oferecer</em> aos seus clientes?</h2><p class="lead">Todo fim de ano a procura por sobremesa explode e os clientes perguntam: “o que você vai ter para o Natal?”. Sem cardápio pronto, vêm a receita que não dá o ponto, o creme que desanda e as horas perdidas testando.</p></div>
-<div class="rv" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;margin-top:40px">
-<div class="q"><h3>24/12 · Encomendas</h3><p style="font:400 15px var(--s);color:var(--mut);margin:8px 0 0">O celular apitando com clientes querendo garantir a travessa da ceia.</p></div>
-<div class="q"><h3>Agenda organizada</h3><p style="font:400 15px var(--s);color:var(--mut);margin:8px 0 0">Cardápio pronto, produção em etapas e encomendas sem improviso.</p></div>
-<div class="q"><h3>Noite de Natal</h3><p style="font:400 15px var(--s);color:var(--mut);margin:8px 0 0">Sua sobremesa no centro da mesa e todo mundo fotografando antes de servir.</p></div>
-<div class="q"><h3>Cliente fiel</h3><p style="font:400 15px var(--s);color:var(--mut);margin:8px 0 0">“Estava maravilhosa! Qual é o seu Instagram? Quero encomendar para o Ano-Novo.”</p></div>
-</div>
-<div class="c rv" style="margin-top:64px"><div class="eyebrow">Por que travessas</div><h2>Práticas, bonitas e com <em>ótima margem</em></h2></div>
-<div class="rv" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;margin-top:36px">
-<div class="q"><h3>Rápidas de montar</h3><p style="font:400 15px var(--s);color:var(--mut);margin:8px 0 0">Produção em etapas que cabe na sua rotina.</p></div>
-<div class="q"><h3>Produção em escala</h3><p style="font:400 15px var(--s);color:var(--mut);margin:8px 0 0">Várias encomendas para a mesma data, sem correria.</p></div>
-<div class="q"><h3>Ingredientes acessíveis</h3><p style="font:400 15px var(--s);color:var(--mut);margin:8px 0 0">Nada de insumo difícil de encontrar.</p></div>
-<div class="q"><h3>Vendem o ano todo</h3><p style="font:400 15px var(--s);color:var(--mut);margin:8px 0 0">Outras datas comemorativas e encomendas de fim de semana.</p></div>
-</div>
+  <div class="c rv"><div class="eyebrow">Natal chegando</div><h2>Você já sabe o que vai <em>oferecer</em> aos seus clientes?</h2><p class="lead">Todo fim de ano a procura por sobremesa explode e os clientes perguntam: “o que você vai ter para o Natal?”. Sem cardápio pronto, vêm a receita que não dá o ponto, o creme que desanda e as horas perdidas testando.</p></div>
+  <div class="rv" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;margin-top:40px">
+    <div class="q"><h3>24/12 · Encomendas</h3><p style="font:400 15px var(--s);color:var(--mut);margin:8px 0 0">O celular apitando com clientes querendo garantir a travessa da ceia.</p></div>
+    <div class="q"><h3>Agenda organizada</h3><p style="font:400 15px var(--s);color:var(--mut);margin:8px 0 0">Cardápio pronto, produção em etapas e encomendas sem improviso.</p></div>
+    <div class="q"><h3>Noite de Natal</h3><p style="font:400 15px var(--s);color:var(--mut);margin:8px 0 0">Sua sobremesa no centro da mesa e todo mundo fotografando antes de servir.</p></div>
+    <div class="q"><h3>Cliente fiel</h3><p style="font:400 15px var(--s);color:var(--mut);margin:8px 0 0">“Estava maravilhosa! Qual é o seu Instagram? Quero encomendar para o Ano-Novo.”</p></div>
+  </div>
+  <div class="c rv" style="margin-top:64px"><div class="eyebrow">Por que travessas</div><h2>Práticas, bonitas e com <em>ótima margem</em></h2></div>
+  <div class="rv" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;margin-top:36px">
+    <div class="q"><h3>Rápidas de montar</h3><p style="font:400 15px var(--s);color:var(--mut);margin:8px 0 0">Produção em etapas que cabe na sua rotina.</p></div>
+    <div class="q"><h3>Produção em escala</h3><p style="font:400 15px var(--s);color:var(--mut);margin:8px 0 0">Várias encomendas para a mesma data, sem correria.</p></div>
+    <div class="q"><h3>Ingredientes acessíveis</h3><p style="font:400 15px var(--s);color:var(--mut);margin:8px 0 0">Nada de insumo difícil de encontrar.</p></div>
+    <div class="q"><h3>Vendem o ano todo</h3><p style="font:400 15px var(--s);color:var(--mut);margin:8px 0 0">Outras datas comemorativas e encomendas de fim de semana.</p></div>
+  </div>
 </div></section>
 
 <section id="metodo"><div class="w">
-<div class="c rv"><div class="eyebrow">Conteúdo</div><h2>As 9 sobremesas na travessa que você vai <em>aprender</em></h2><p class="lead">Sabores que os clientes já conhecem e amam, com apresentação que vende sozinha. Toque em cada módulo.</p></div>
-<div class="tabs rv">
-<div class="tl" role="tablist" id="tl"></div>
-<div class="tp" id="tp"></div>
-</div>
-<p class="c" style="margin-top:40px"><a class="btn" data-buy href="#">Quero acesso ao curso →</a></p>
+  <div class="c rv"><div class="eyebrow">Conteúdo</div><h2>As 9 sobremesas na travessa que você vai <em>aprender</em></h2><p class="lead">Sabores que os clientes já conhecem e amam, com apresentação que vende sozinha. Toque em cada módulo.</p></div>
+  <div class="tabs rv">
+    <div class="tl" role="tablist" id="tl"></div>
+    <div class="tp" id="tp"></div>
+  </div>
+  <p class="c" style="margin-top:40px"><a class="btn" data-buy href="#">Quero acesso ao curso →</a></p>
 </div></section>
 
 <section style="padding-top:0"><div class="w"><div class="c rv"><div class="eyebrow">Cardápio</div><h2>Olha só como ficam as <em>travessas</em></h2><p class="lead">Camadas generosas, acabamento caprichado e apresentação que vende sozinha.</p></div>
-<div class="gal" id="gal"></div>
-<p class="c rv" style="margin:44px 0 0;color:var(--mut)">As 9 sobremesas que você vai aprender:</p><div class="nm rv" id="nm"></div>
+  <div class="gal" id="gal"></div>
+  <p class="c rv" style="margin:44px 0 0;color:var(--mut)">As 9 sobremesas que você vai aprender:</p><div class="nm rv" id="nm"></div>
 </div></section>
 
 <section id="simule" style="padding-top:0"><div class="w"><div class="calc rv">
-<div><div class="eyebrow">Simulador</div><h2>Quanto você pode <em style="color:#fce7f3">faturar?</em></h2><p class="lead">Ajuste os números e veja uma estimativa. É uma simulação, não uma promessa de resultado.</p></div>
-<div>
-<div class="fld"><label>Preço de venda <output id="o1"></output></label><input type="range" id="r1" min="20" max="300" step="5" value="80"></div>
-<div class="fld"><label>Custo por unidade <output id="o2"></output></label><input type="range" id="r2" min="5" max="150" step="5" value="30"></div>
-<div class="fld"><label>Vendas por semana <output id="o3"></output></label><input type="range" id="r3" min="1" max="40" value="8"></div>
-<div class="res"><small>Lucro estimado por mês</small><b id="out">R$ 0</b><small id="roi"></small><p>Estimativa ilustrativa. Resultados variam.</p></div>
-</div>
+  <div><div class="eyebrow">Simulador</div><h2>Quanto você pode <em style="color:#fce7f3">faturar?</em></h2><p class="lead">Ajuste os números e veja uma estimativa. É uma simulação, não uma promessa de resultado.</p></div>
+  <div>
+    <div class="fld"><label>Preço de venda <output id="o1"></output></label><input type="range" id="r1" min="20" max="300" step="5" value="80"></div>
+    <div class="fld"><label>Custo por unidade <output id="o2"></output></label><input type="range" id="r2" min="5" max="150" step="5" value="30"></div>
+    <div class="fld"><label>Vendas por semana <output id="o3"></output></label><input type="range" id="r3" min="1" max="40" value="8"></div>
+    <div class="res"><small>Lucro estimado por mês</small><b id="out">R$ 0</b><small id="roi"></small><p>Estimativa ilustrativa. Resultados variam.</p></div>
+  </div>
 </div></div></section>
 
 <section><div class="w">
-<div class="c rv"><div class="eyebrow">Para quem é</div><h2>Feito para quem quer <em>vender sobremesa</em></h2></div>
-<div class="grid3 rv">
-<div class="q"><h3>Está começando</h3><p style="font:400 15px var(--s);color:var(--mut);margin:8px 0 0">Nunca vendeu doce? Cada creme, base e montagem é mostrado passo a passo, com ingredientes fáceis de encontrar.</p></div>
-<div class="q"><h3>Já vende doces</h3><p style="font:400 15px var(--s);color:var(--mut);margin:8px 0 0">Amplie o cardápio com travessas que rendem bem, ficam lindas na mesa e agradam todo mundo.</p></div>
-<div class="q"><h3>Quer renda extra</h3><p style="font:400 15px var(--s);color:var(--mut);margin:8px 0 0">Produza em etapas, com antecedência, e aproveite o Natal e as encomendas de fim de semana o ano todo.</p></div>
-</div>
+  <div class="c rv"><div class="eyebrow">Para quem é</div><h2>Feito para quem quer <em>vender sobremesa</em></h2></div>
+  <div class="grid3 rv">
+    <div class="q"><h3>Está começando</h3><p style="font:400 15px var(--s);color:var(--mut);margin:8px 0 0">Nunca vendeu doce? Cada creme, base e montagem é mostrado passo a passo, com ingredientes fáceis de encontrar.</p></div>
+    <div class="q"><h3>Já vende doces</h3><p style="font:400 15px var(--s);color:var(--mut);margin:8px 0 0">Amplie o cardápio com travessas que rendem bem, ficam lindas na mesa e agradam todo mundo.</p></div>
+    <div class="q"><h3>Quer renda extra</h3><p style="font:400 15px var(--s);color:var(--mut);margin:8px 0 0">Produza em etapas, com antecedência, e aproveite o Natal e as encomendas de fim de semana o ano todo.</p></div>
+  </div>
 </div></section>
 
 <section style="padding-top:0"><div class="w"><div class="gar rv">
-<div class="ic">🛡️</div><div class="eyebrow">Garantia</div><h2>7 dias para testar, <em>sem risco</em></h2>
-<p class="lead">Entre, assista às aulas e, se achar que o curso não é para você, peça o reembolso de 100% do valor em até 7 dias após a compra.</p>
+  <div class="ic">🛡️</div><div class="eyebrow">Garantia</div><h2>7 dias para testar, <em>sem risco</em></h2>
+  <p class="lead">Entre, assista às aulas e, se achar que o curso não é para você, peça o reembolso de 100% do valor em até 7 dias após a compra.</p>
 </div></div></section>
 
 <section id="oferta" style="background:var(--bg2)"><div class="w">
-<div class="c rv"><div class="eyebrow">Oferta</div><h2>Garanta seu <em>acesso</em> hoje</h2></div>
-<div class="offer rv"><div class="tag">ACESSO COMPLETO</div>
-
-<ul class="ck"><li>Curso completo com 9 travessas passo a passo</li><li>10 recheios: cremes, mousses e ganaches</li><li>Bases, geleias, embalagens, validade e armazenamento</li><li>Bônus: e-book e certificado de conclusão</li><li>1 ano de acesso, no celular ou computador</li></ul>
-<div class="old">De R$ 497</div><div class="big">R$ 79,90</div><div style="margin:4px 0 24px;color:var(--mut)">pagamento único, à vista</div>
-<a class="btn" data-buy href="#" style="width:100%;justify-content:center">Quero começar agora →</a>
-<div class="safe">Cartão em até 12x · Pix · Boleto · 7 dias de garantia</div></div>
+  <div class="c rv"><div class="eyebrow">Oferta</div><h2>Garanta seu <em>acesso</em> hoje</h2></div>
+  <div class="offer rv"><div class="tag">ACESSO COMPLETO</div>
+    
+    <ul class="ck"><li>Curso completo com 9 travessas passo a passo</li><li>10 recheios: cremes, mousses e ganaches</li><li>Bases, geleias, embalagens, validade e armazenamento</li><li>Bônus: e-book e certificado de conclusão</li><li>1 ano de acesso, no celular ou computador</li></ul>
+    <div class="old">De R$ 497</div><div class="big">R$ 79,90</div><div style="margin:4px 0 24px;color:var(--mut)">pagamento único, à vista</div>
+    <a class="btn" data-buy href="#" style="width:100%;justify-content:center">Quero começar agora →</a>
+    <div class="safe">Cartão em até 12x · Pix · Boleto · 7 dias de garantia</div></div>
 </div></section>
 
 <section id="faq"><div class="w">
-<div class="c rv"><div class="eyebrow">Dúvidas</div><h2>Perguntas <em>frequentes</em></h2></div>
-<div class="fq rv" id="fq"></div>
+  <div class="c rv"><div class="eyebrow">Dúvidas</div><h2>Perguntas <em>frequentes</em></h2></div>
+  <div class="fq rv" id="fq"></div>
 </div></section>
 </main>
 
@@ -265,10 +265,10 @@ const CFG={checkout:"https://pay.cakto.com.br/3bcfcj7_1313329",images:{hero:IMG.
 <script>
 const $=(s,r=document)=>r.querySelector(s),$$=(s,r=document)=>[...r.querySelectorAll(s)];
 const MODS=[
-{t:"Recheios e cremes base",d:"10 receitas base para montar qualquer travessa com segurança e padrão de venda.",p:["Creme base e creme de nata","Mousses de limão, ninho e chocolate","Cremes de doce de leite e maracujá","Ganaches de chocolate branco e meio amargo"]},
-{t:"Bases e geleias",d:"As bases que sustentam as camadas e as geleias que dão acabamento e sabor.",p:["Base de biscoito","Brownie","Geleia de morango","Geleia de maracujá"]},
-{t:"Montagem das 9 travessas",d:"Montagem completa, camada por camada, até a travessa chegar linda na mesa.",p:["Pavê de chocolate e travessa de limão","Bombom de uva e pavê de ninho com morangos","Delícia de pêssego e doce de leite com nozes","Maracujá com chocolate, tentação de morango e brownie"]},
-{t:"Embalagem, validade e bônus",d:"Como apresentar, armazenar e entregar com segurança, além dos bônus do curso.",p:["Embalagens para apresentar e entregar","Validade e armazenamento para produzir com antecedência","E-book bônus","Certificado de conclusão"]}];
+ {t:"Recheios e cremes base",d:"10 receitas base para montar qualquer travessa com segurança e padrão de venda.",p:["Creme base e creme de nata","Mousses de limão, ninho e chocolate","Cremes de doce de leite e maracujá","Ganaches de chocolate branco e meio amargo"]},
+ {t:"Bases e geleias",d:"As bases que sustentam as camadas e as geleias que dão acabamento e sabor.",p:["Base de biscoito","Brownie","Geleia de morango","Geleia de maracujá"]},
+ {t:"Montagem das 9 travessas",d:"Montagem completa, camada por camada, até a travessa chegar linda na mesa.",p:["Pavê de chocolate e travessa de limão","Bombom de uva e pavê de ninho com morangos","Delícia de pêssego e doce de leite com nozes","Maracujá com chocolate, tentação de morango e brownie"]},
+ {t:"Embalagem, validade e bônus",d:"Como apresentar, armazenar e entregar com segurança, além dos bônus do curso.",p:["Embalagens para apresentar e entregar","Validade e armazenamento para produzir com antecedência","E-book bônus","Certificado de conclusão"]}];
 const FAQ=[["Nunca fiz sobremesa para vender. Vou conseguir?","Sim. Cada creme, base e montagem é mostrada passo a passo, com ingredientes fáceis de encontrar."],["Dá para produzir com antecedência?","Sim. As travessas são feitas em etapas e há uma aula sobre validade e armazenamento."],["Só serve para o Natal?","Não. O Natal é a grande oportunidade, mas elas vendem em outras datas e em encomendas de fim de semana o ano todo."],["Como recebo o acesso?","Por e-mail, logo após a aprovação do pagamento."],["Por quanto tempo tenho acesso?","1 ano a partir da data da compra."],["Quais as formas de pagamento?","Cartão em até 12x, Pix ou boleto."],["E se eu não gostar?","Você tem 7 dias de garantia, com reembolso de 100% do valor."]];
 const LAY=[["#fff","#f9a8d4","#be185d"],["#fde68a","#fff","#a16207"],["#7c2d12","#fbcfe8","#fff"],["#fff","#fecdd3","#e11d48"],["#fdba74","#fff","#fde68a"],["#d6a45f","#fff7ed","#92400e"]];
 function art(k,i){const L=LAY[i%LAY.length],id="g"+k+i;return `<svg viewBox="0 0 400 400" preserveAspectRatio="xMidYMid slice" aria-hidden="true"><defs><linearGradient id="${id}" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffe4ee"/><stop offset="1" stop-color="#f9a8d4"/></linearGradient><clipPath id="c${id}"><rect x="50" y="170" width="300" height="150" rx="26"/></clipPath></defs><rect width="400" height="400" fill="url(#${id})"/><circle cx="330" cy="70" r="90" fill="#fff" opacity=".35"/><circle cx="50" cy="350" r="110" fill="#fff" opacity=".25"/><ellipse cx="200" cy="335" rx="170" ry="22" fill="#9d174d" opacity=".18"/><g clip-path="url(#c${id})"><rect x="50" y="170" width="300" height="150" fill="#fff"/><rect x="50" y="190" width="300" height="38" fill="${L[0]}"/><rect x="50" y="228" width="300" height="38" fill="${L[1]}"/><rect x="50" y="266" width="300" height="54" fill="${L[2]}"/></g><rect x="50" y="170" width="300" height="150" rx="26" fill="none" stroke="#fff" stroke-width="8"/><rect x="42" y="300" width="316" height="26" rx="13" fill="#fff"/><g fill="#fff"><circle cx="110" cy="165" r="26"/><circle cx="165" cy="150" r="30"/><circle cx="225" cy="150" r="30"/><circle cx="285" cy="165" r="26"/></g><circle cx="150" cy="128" r="17" fill="#e11d48"/><circle cx="205" cy="116" r="19" fill="#e11d48"/><circle cx="262" cy="130" r="17" fill="#e11d48"/><path d="M142 114l8-8 8 8zM197 101l8-8 8 8zM254 116l8-8 8 8z" fill="#16a34a"/></svg>`}
